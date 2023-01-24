@@ -1,2 +1,2 @@
 # Furniture-Oasis
-A site for our modular furniture model.
+A venture dealing in modular furniture
